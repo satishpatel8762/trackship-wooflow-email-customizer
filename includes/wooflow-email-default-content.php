@@ -6,6 +6,8 @@ if (!defined('ABSPATH')) {
 
 class Default_Content_Templates {
 
+	public $plugin_path;
+
 	/**
 	 * Get the class instance
 	 *
