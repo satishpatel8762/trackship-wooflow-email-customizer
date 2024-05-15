@@ -1,0 +1,3 @@
+== Wooflow Email Customizer Changelog ==
+
+2022-07-4 - version 1.0
